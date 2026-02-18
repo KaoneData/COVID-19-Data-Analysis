@@ -52,6 +52,8 @@ FROM PopVsVac;
 ## Dashboard Preview
 Below is a snapshot of the final interactive dashboard. It features global KPI tiles, a geographic infection heatmap, and continental mortality breakdowns.
 
+---
+
 ![Tableau Dashboard Preview](preview.png)
 
 ---
