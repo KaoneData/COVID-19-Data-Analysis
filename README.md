@@ -54,7 +54,7 @@ Below is a snapshot of the final interactive dashboard. It features global KPI t
 
 ---
 
-![Tableau Dashboard Preview](preview.png)
+![Tableau Dashboard Preview](https://raw.githubusercontent.com/KaoneData/COVID-19-Data-Analysis/refs/heads/main/preview.png)
 
 ---
 
